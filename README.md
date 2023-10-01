@@ -1,3 +1,2 @@
 # Turtle_Crossing_Game
-Turtle Crossing Game
 This project is similar to Crossy Road Game, we have a Turtle(The Player) which is only able to move forward across a busy multi-lane highway with a bunch of randomly generated vehicles  going horizontally accross the road while the player goes vertically in an attempt to cross the highway to the other side. Once the player successfully reaches the other side of the highway without being hit by any oncoming vehicle, the player returns to the original starting position and the horizontal vehicles speed increase, then the process continues. In the process, if the player gets hit by any vehicle, that would be a Game Over. This project also uses OOP.
